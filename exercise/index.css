@@ -11,17 +11,28 @@
 
 .photo1{
   background-image: url("./img/box1.jpg");
+  background-size: cover;
+  background-position: center;
   height: 200px;
 }
 
 .photo2{
   background-image: url("./img/box2.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 200px;
 }
 
 .photo3{
   background-image: url("./img/box3.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 200px;
 }
 
 .photo4{
   background-image: url("./img/box4.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 200px;
 }
